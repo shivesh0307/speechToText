@@ -1,5 +1,3 @@
-/.ipynb_checkpoints
-/new 1.txt
-/speech.ipynb
-/speechToText.py
-/speech_barc.py
+speech_analysis.xlsx
+new 1.txt
+recognized_text.txt
